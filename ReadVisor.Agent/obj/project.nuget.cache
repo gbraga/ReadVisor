@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RHTwKfLT6c1TN8HjZvE4ewBw+NN1+k79yjqk+sXPI9+repzHelYOXreR3d220pY9AkrWWNJM0d4416pnahJUbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\source\\repos\\ReadVisor\\ReadVisor.Agent\\ReadVisor.Agent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\tesseract.drawing\\4.1.1\\tesseract.drawing.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
